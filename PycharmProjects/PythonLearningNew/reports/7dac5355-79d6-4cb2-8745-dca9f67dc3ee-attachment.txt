@@ -1,0 +1,4 @@
+Create booking testcase
+<class 'str'>
+<class 'dict'>
+<class 'dict'>
